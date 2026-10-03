@@ -1,8 +1,10 @@
 # Catch the Letter
 
+*[Patch Notes](/patch-notes/PATCH_NOTES.md)*
+
 A fast-paced arcade word construction game where floating letters test reaction time, precision, and spelling accuracy under pressure.
 
-## Web Beta & Play Link
+## Web Beta Play Link
 
 The game is currently accessible via web browser:
 
