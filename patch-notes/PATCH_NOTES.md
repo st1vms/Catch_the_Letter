@@ -10,3 +10,15 @@ First version : )
 
 - Updated favicon.
 - Added version number in home screen.
+
+## v0.2.0
+
+- Removed swipe gesture;
+- Tutorial Page;
+- Full screen toggle in main menu;
+- Pause dialog instead of exit button;
+- New icons;
+- New particle system (confetti);
+- New capture animation;
+- Better hitboxes;
+- Grayed out target word;
