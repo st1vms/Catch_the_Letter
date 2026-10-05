@@ -26,7 +26,9 @@ First version : )
 ## v0.2.1
 
 - Countdown timer in timer mode
-
 - New user interface: redesigned background, font, icons, and buttons.
-
 - Added a box around the letter and adjusted the collision area accordingly.
+
+## v0.2.2
+
+- Spawning letters now have a random colored border.
