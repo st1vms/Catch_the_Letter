@@ -32,3 +32,9 @@ First version : )
 ## v0.2.2
 
 - Spawning letters now have a random colored border.
+
+## v0.3.0
+
+- Each level is different; 19 different levels have been added.
+
+    *NOTE: For now, completing all levels will loop back to the first level; I'll be adding many more levels in the future. Stay tuned!*
