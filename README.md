@@ -35,10 +35,10 @@ High scores and completed word counters persist between runs.
 
 ## Screenshots
 
-| Main Menu | Early Game |
+| Main Menu | Game Screenshot #1 |
 | :---: | :---: |
 | ![Main Menu](images/homepage.png) | ![Early Game](images/early_game.png) |
 
-| Late Game Chaos | Game Over |
+| Game Screenshot #2 | Game Over |
 | :---: | :---: |
 | ![Late Game](images/late_game.png) | ![Game Over](images/game_over.png) |
