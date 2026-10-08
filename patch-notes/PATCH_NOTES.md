@@ -38,3 +38,12 @@ First version : )
 - Each level is different; 19 different levels have been added.
 
     *NOTE: For now, completing all levels will loop back to the first level; I'll be adding many more levels in the future. Stay tuned!*
+
+## v0.3.1
+
+First levels balanced to make the progression easier in the first rounds:
+
+- Round 3,5,8,9,10,16,17 -> Reduced letter speed;
+- Round 4 -> Reduced gravity speed;
+- Round 7 -> Increased letter visible time to 1.5s;
+- Changed order of rounds from round 15 to 19.
