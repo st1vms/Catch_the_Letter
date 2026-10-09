@@ -2,6 +2,16 @@
 
 "__Catch the letter__" Patch Notes
 
+## v0.3.3
+
+- Changed "`10` Minutes Challenge" to "`5` Minutes Challange"
+
+- Added an underline to letters `M` and `W` to distinguish them better.
+
+- Swap round animation reworked to be more intuitive.
+
+- The round order has been changed to introduce some game mechanics earlier (which were previously only introduced in the final stages).
+
 ## v0.3.2
 
 - Added Emoji round!
